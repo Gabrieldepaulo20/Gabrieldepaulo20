@@ -1,7 +1,6 @@
 ### Oiii👋 sou o Gabriel William
 - 🔭 Hoje estou trabalhando com sistemas ERP
 - 🌱 Estou estudando C++, dart e javascript
-- 😄 Pronouns: ele/dele
 
 <div>
 <a href="https://github.com/gabrieldepaulo20">
