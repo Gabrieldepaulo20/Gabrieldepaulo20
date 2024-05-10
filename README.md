@@ -1,12 +1,12 @@
 ### Oiii👋 sou o Gabriel William
-- 🔭 Hoje estou trabalhando com sistemas ERP
-- 🌱 Estou estudando C++, dart e javascript
+- 🔭 Hoje estou trabalhando com desenvolvimento de sistemas
+- 🌱 Estou estudando C++, dart e javascript.
 
 
 <div>
 <a href="https://github.com/gabrieldepaulo20">
 <img heigh="180em" src= "https://github-readme-stats.vercel.app/api?username=gabrieldepaulo20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img heigh="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldepaulo20&layout=compact&langs_count=16&theme=dracula"/>
+<img heigh="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldepaulo20&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
 <img align ="center" alt="gabriel-JS"         height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
