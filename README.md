@@ -17,3 +17,5 @@
 <img align ="center" alt ="gabriel-python"    height="35" widght="45"  src=https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg>
 <img align ="center" alt ="gabriel-html5"     height="30" widght="40"  src=https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg>
 <img align ="center" alt ="gabriel-css3"      height="30" widght="40"  src=https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg>
+
+<img align="center" alt="gabriel-css3" height="40" width="45" src=https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/C%23.svg>
