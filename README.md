@@ -1,79 +1,103 @@
-# 💫 About Me:
-Olá! Sou Gabriel, estudante de Ciência da Computação e desenvolvedor focado em criar soluções escaláveis, seguras e eficientes. Minha experiência inclui:<br><br>- Desenvolvimento de sistemas e aplicativos** usando **Flutter**, **Node.js** e **C++**.<br>- Infraestrutura em **AWS** (EC2, RDS, S3) com foco em escalabilidade e automação de processos empresariais.<br>- Integração e otimização de sistemas corporativos**, como **SAP**.<br>- Criação de **chatbots inteligentes**, incluindo automação no **WhatsApp**.<br>- Desenvolvimento de **aplicações em tempo real** para casos críticos de desempenho.<br>- Proficiência em bancos de dados como **SQL Server**, **MySQL** e **Firebase**.<br>- Experiência com **metodologias ágeis** (Scrum e Kanban), garantindo entregas organizadas e colaborativas.<br><br>Sempre em busca de desafios, estou comprometido em entregar soluções que combinam inovação e excelência técnica.<br><br>
+<h1 align="center">Hi, I'm Gabriel William 👋</h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0B6E99&center=true&vCenter=true&width=600&lines=AI+Solutions+Engineer;Autonomous+Multi-Agent+Systems+Builder;RAG+%26+GenAI+in+Production;Turning+manual+work+into+AI-Driven+flows" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/gabrielwilliamdepaulo)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gabthecoder/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldevwilliam)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gabrielwilliam208)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/ClueGullible8001)
-
-
-
-# 💻 Tech Stack:
-### Linguagens de Programação
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrieldevwilliam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:gabrielwilliam208@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://medium.com/@gabrielwilliam208"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+</p>
 
 ---
 
-### Ferramentas de Desenvolvimento e Frameworks
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+## 🧑‍💻 About Me
+
+Sou **Engenheiro de IA** apaixonado por usar tecnologia pra não apenas para **facilitar a vida das pessoas** mas também para resolver a dor de negócios. O que mais gosto é transformar aquele **processo manual e cansativo** em algo **inteligente que funciona sozinho**. Vou desde **entender o problema real** até construir e entregar a solução — e nada me deixa mais feliz do que ver uma **ideia saindo do papel** e gerando **impacto de verdade**.
+
+- 🤖 Construo **sistemas multi-agente autônomos** com **LangGraph** e **CrewAI**, integrando agentes a sistemas legados via **MCP** e APIs robustas.
+- 📚 Especialista em **RAG** — embeddings, indexação semântica e vector databases — para recuperação de contexto confiável.
+- ⚙️ Desenvolvo em **Python (FastAPI)** e **Node.js**, com microsserviços e arquitetura serverless na **AWS**.
+- 📈 **Foco em ROI:** Um dos projetos de IA que já entreguei em uma multinacional eliminou trabalho manual equivalente a mais de **+1.100 horas/mês**.
+- 🏢 Atualmente **Analista de Sistemas Pleno (IA & Automação)**, integrando LLMs (OpenAI, Claude, Gemini) a processos corporativos.
+- 🎓 Cursando **Ciência da Computação** (conclusão em 2026) · 🏆 2º lugar na competição **BRICS/SENAI** (IoT).
+- 💻 Participei de Hackatons promovidos pela Barão de Mauá, desenvolvendo automações para sustentabilidade.
+- 🌎 Brasil · Remoto · Português (nativo) · Inglês (intermediário).
 
 ---
 
-### Cloud e Infraestrutura
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## 🚀 Featured Projects
+
+| Projeto | O que faz | Stack |
+| :--- | :--- | :--- |
+| 🤖 **[Hermes](https://github.com/Gabrieldepaulo20)** | Sistema **multi-agente** (supervisor/router) para atendimento autônomo: qualifica, agenda e consulta informação interna de forma contextual. | `LangGraph` · `CrewAI` · `MCP` · `FastAPI` · `pgvector` |
+| 📖 **[Mnemo](https://github.com/Gabrieldepaulo20)** | Assistente corporativo com **RAG** que responde sobre documentos com **citação da fonte** e controle de permissões. | `LangChain` · `LlamaIndex` · `Pinecone` · `embeddings` |
+| 🛡️ **[Aegis](https://github.com/Gabrieldepaulo20)** | **Agente autônomo** que revisa pull requests, identifica vulnerabilidades e gera relatório priorizado de correções. | `LangGraph` · `Semgrep` · `CodeQL` · `SARIF` |
+
+> 📌 Repositórios fixados no topo do perfil ⬆️
 
 ---
 
-### Banco de Dados
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+## 🛠️ Tech Stack
+
+**🤖 IA & Agentes**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F61?style=for-the-badge&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A1F?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Protocol-4B0082?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_·_Embeddings-5B2A86?style=for-the-badge&logoColor=white)
+
+**⚙️ Backend & Cloud**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**🗄️ Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### Ferramentas de Design e Produtividade
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gabrieldepaulo20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gabrieldepaulo20&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieldepaulo20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gabrieldepaulo20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieldepaulo20&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="top langs"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrieldepaulo20&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gabrieldepaulo20&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
-[![](https://visitcount.itsvg.in/api?id=Gabrieldepaulo20&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gabrielwilliam208@gmail.com) 
+## 🌱 What I'm Working On
+
+- 🕸️ Arquiteturas multi-agente mais robustas (orquestração, MCP e tool-calling).
+- 📚 RAG avançado: re-ranking, avaliação de LLMs e mitigação de alucinação.
+- ☁️ Aprofundando AWS e preparando certificação cloud Associate.
+
+---
+
+## 📫 Let's Connect
+
+Estou aberto a oportunidades em **Engenharia de IA / AI Solutions** — onde eu possa transformar problemas de negócio em sistemas inteligentes de alto impacto.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabrieldevwilliam"><img src="https://img.shields.io/badge/Vamos_conversar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:gabrielwilliam208@gmail.com"><img src="https://img.shields.io/badge/gabrielwilliam208@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
