@@ -21,7 +21,7 @@ Esses trabalhos envolvem aplicações de IA, integração de plataformas e autom
 
 ## Tecnologias
 
-TypeScript, Python, Pandas e SQL; integração por APIs e webhooks; aplicações com LLMs; AWS IoT Core, Timestream e Grafana.
+n8n e Make; TypeScript, Python, Pandas e SQL; integração por APIs e webhooks; aplicações com LLMs; AWS IoT Core, Timestream e Grafana.
 
 ## Contato
 
