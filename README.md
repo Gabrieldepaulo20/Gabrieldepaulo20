@@ -8,7 +8,7 @@ Também sou fundador da GAWI, minha empresa de desenvolvimento de projetos para 
 
 ## Experiência e projetos
 
-- Automação de viagens e reembolsos com TypeScript, chamadas ao GPT por API, análise documental por OCR e integração entre Onfly, SAP e Jira.
+- Automações de viagens e reembolsos inicialmente desenvolvidas no n8n e depois migradas para código versionado, com TypeScript, GPT por API, análise documental por OCR e integração entre Onfly, SAP e Jira.
 - Integrações de onboarding e offboarding entre Jira Service Management e TOTVS.
 - Projeto de hidroponia com dispositivo ESP, AWS IoT Core, Amazon Timestream e Grafana.
 - Participação no desenvolvimento de chatbot para clínicas odontológicas.
